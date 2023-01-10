@@ -25,7 +25,7 @@ const Header: FC<HeaderProps> = ({ selectedSkus, setIsLoading }) => {
 
   return (
     <header className={styles.header}>
-      <h3 className={styles.logo}>scandiweb</h3>
+      <h3 className={styles.logo}>Market</h3>
       <nav>
         <ul>
           <li>
